@@ -2,6 +2,8 @@
 
 I am a computer science major at CSUF and I plan on graduating in 2028
 
+My Github profile is https://github.com/Germworm
+
 ## Favorite CPSC 120L Labs
 
 Lab 7
